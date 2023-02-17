@@ -21,9 +21,9 @@ This Python script uses the Tweepy and PyGithub libraries to authenticate with y
 2. Install the required libraries using pip: `pip install tweepy PyGithub`
 3. Create a new Twitter Developer account and generate the required API keys and access tokens.
 4. Create a new GitHub Developer account and generate an access token.
-5. Open the `bot.py` file and replace the placeholders with your own Twitter and GitHub account information.
+5. Open the `TGBot.py` file and replace the placeholders with your own Twitter and GitHub account information.
 6. Customize the tweet text, adjectives, emojis, and hashtags as desired.
-7. Run the script using `python bot.py` or your preferred method.
+7. Run the script using `TGBot.py` or your preferred method.
 
 ## How to Use the Project
 
